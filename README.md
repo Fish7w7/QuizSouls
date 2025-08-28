@@ -27,3 +27,9 @@ cd QuizSouls
 
 Instale as dependências:
 pip install -r requirements.txt
+
+## 📥 Download
+
+Você pode baixar o executável pronto na aba de Releases:
+
+👉 [Baixar QuizSoulsLOL.exe](https://github.com/Fish7w7/QuizSouls/releases)
