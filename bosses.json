@@ -1,0 +1,578 @@
+[
+    {
+        "slug": "the-last-giant",
+        "name": "The Last Giant",
+        "hp": 2530,
+        "optional": "required",
+        "resistance": [],
+        "weakness": [
+            "fire",
+            "lightning"
+        ],
+        "immunity": [],
+        "weapons": [
+            "arm"
+        ]
+    },
+    {
+        "slug": "the-pursuer",
+        "name": "The Pursuer",
+        "hp": 3110,
+        "optional": "optional",
+        "resistance": [
+            "dark"
+        ],
+        "weakness": [
+            "lightning",
+            "strike"
+        ],
+        "immunity": [
+            "bleed"
+        ],
+        "weapons": [
+            "sword",
+            "shield"
+        ]
+    },
+    {
+        "slug": "executioners-chariot",
+        "name": "Executioner's Chariot",
+        "hp": 4140,
+        "optional": "optional",
+        "resistance": [
+            "strike",
+            "dark"
+        ],
+        "weakness": [
+            "lightning",
+            "fire",
+            "bleed"
+        ],
+        "immunity": [],
+        "weapons": []
+    },
+    {
+        "slug": "looking-glass-knight",
+        "name": "Looking Glass Knight",
+        "hp": 6540,
+        "optional": "required",
+        "resistance": [
+            "lightning"
+        ],
+        "weakness": [
+            "strike",
+            "magic",
+            "fire",
+            "dark"
+        ],
+        "immunity": [
+            "bleed"
+        ],
+        "weapons": [
+            "sword",
+            "shield"
+        ]
+    },
+    {
+        "slug": "the-skeleton-lords",
+        "name": "The Skeleton Lords",
+        "hp": 2080,
+        "optional": "required",
+        "resistance": [
+            "magic",
+            "thrust"
+        ],
+        "weakness": [
+            "fire",
+            "strike"
+        ],
+        "immunity": [
+            "poison",
+            "bleed"
+        ],
+        "weapons": [
+            "scythe",
+            "halberd",
+            "staff"
+        ]
+    },
+    {
+        "slug": "flexile-sentry",
+        "name": "Flexile Sentry",
+        "hp": 3150,
+        "optional": "optional",
+        "resistance": [],
+        "weakness": [
+            "fire"
+        ],
+        "immunity": [],
+        "weapons": [
+            "sword"
+        ]
+    },
+    {
+        "slug": "lost-sinner",
+        "name": "Lost Sinner",
+        "hp": 3560,
+        "optional": "required",
+        "resistance": [
+            "bleed",
+            "fire",
+            "poison"
+        ],
+        "weakness": [
+            "magic"
+        ],
+        "immunity": [],
+        "weapons": [
+            "greatsword"
+        ]
+    },
+    {
+        "slug": "belfry-gargoyles",
+        "name": "Belfry Gargoyles",
+        "hp": 1400,
+        "optional": "optional",
+        "resistance": [
+            "poison"
+        ],
+        "weakness": [
+            "strike",
+            "magic"
+        ],
+        "immunity": [
+            "bleed"
+        ],
+        "weapons": [
+            "spear"
+        ]
+    },
+    {
+        "slug": "ruin-sentinels",
+        "name": "Ruin Sentinels",
+        "hp": 2330,
+        "optional": "optional",
+        "resistance": [],
+        "weakness": [
+            "lightning",
+            "strike",
+            "poison",
+            "toxic"
+        ],
+        "immunity": [
+            "bleed"
+        ],
+        "weapons": [
+            "spear",
+            "shield"
+        ]
+    },
+    {
+        "slug": "royal-rat-vanguard",
+        "name": "Royal Rat Vanguard",
+        "hp": 1410,
+        "optional": "optional",
+        "resistance": [
+            "poison"
+        ],
+        "weakness": [
+            "fire"
+        ],
+        "immunity": [],
+        "weapons": []
+    },
+    {
+        "slug": "royal-rat-authority",
+        "name": "Royal Rat Authority",
+        "hp": 4330,
+        "optional": "optional",
+        "resistance": [
+            "poison"
+        ],
+        "weakness": [
+            "fire"
+        ],
+        "immunity": [],
+        "weapons": []
+    },
+    {
+        "slug": "scorpioness-najka",
+        "name": "Scorpioness Najka",
+        "hp": 5911,
+        "optional": "required",
+        "resistance": [
+            "magic"
+        ],
+        "weakness": [
+            "thrust",
+            "fire"
+        ],
+        "immunity": [
+            "poison"
+        ],
+        "weapons": [
+            "staff"
+        ]
+    },
+    {
+        "slug": "the-dukes-dear-freja",
+        "name": "The Duke's Dear Freja",
+        "hp": 4220,
+        "optional": "required",
+        "resistance": [
+            "magic",
+            "lightning",
+            "dark"
+        ],
+        "weakness": [
+            "strike",
+            "fire",
+            "bleed"
+        ],
+        "immunity": [
+            "poison"
+        ],
+        "weapons": []
+    },
+    {
+        "slug": "mytha-the-baneful-queen",
+        "name": "Mytha, The Baneful Queen",
+        "hp": 3570,
+        "optional": "required",
+        "resistance": [
+            "slash",
+            "magic",
+            "lightning"
+        ],
+        "weakness": [
+            "thrust",
+            "fire"
+        ],
+        "immunity": [
+            "poison"
+        ],
+        "weapons": [
+            "spear",
+            "head"
+        ]
+    },
+    {
+        "slug": "the-rotten",
+        "name": "The Rotten",
+        "hp": 7080,
+        "optional": "required",
+        "resistance": [
+            "strike",
+            "dark",
+            "poison"
+        ],
+        "weakness": [
+            "thrust",
+            "lightning",
+            "bleed"
+        ],
+        "immunity": [],
+        "weapons": [
+            "axe"
+        ]
+    },
+    {
+        "slug": "old-dragonslayer",
+        "name": "Old Dragonslayer",
+        "hp": 2880,
+        "optional": "optional",
+        "resistance": [
+            "dark"
+        ],
+        "weakness": [],
+        "immunity": [],
+        "weapons": [
+            "spear"
+        ]
+    },
+    {
+        "slug": "covetous-demon",
+        "name": "Covetous Demon",
+        "hp": 4440,
+        "optional": "required",
+        "resistance": [
+            "strike",
+            "lightning",
+            "poison"
+        ],
+        "weakness": [
+            "thrust",
+            "magic",
+            "fire",
+            "bleed"
+        ],
+        "immunity": [],
+        "weapons": []
+    },
+    {
+        "slug": "smelter-demon",
+        "name": "Smelter Demon",
+        "hp": 5970,
+        "optional": "optional",
+        "resistance": [
+            "fire"
+        ],
+        "weakness": [
+            "strike"
+        ],
+        "immunity": [
+            "bleed"
+        ],
+        "weapons": [
+            "sword"
+        ]
+    },
+    {
+        "slug": "old-iron-king",
+        "name": "Old Iron King",
+        "hp": 6070,
+        "optional": "required",
+        "resistance": [
+            "fire",
+            "poison"
+        ],
+        "weakness": [
+            "lightning"
+        ],
+        "immunity": [
+            "bleed"
+        ],
+        "weapons": []
+    },
+    {
+        "slug": "guardian-dragon",
+        "name": "Guardian Dragon",
+        "hp": 5270,
+        "optional": "required",
+        "resistance": [
+            "fire"
+        ],
+        "weakness": [
+            "magic",
+            "dark"
+        ],
+        "immunity": [],
+        "weapons": []
+    },
+    {
+        "slug": "demon-song",
+        "name": "Demon Song",
+        "hp": 6180,
+        "optional": "required",
+        "resistance": [
+            "poison"
+        ],
+        "weakness": [
+            "bleed",
+            "magic",
+            "dark"
+        ],
+        "immunity": [],
+        "weapons": []
+    },
+    {
+        "slug": "velstadt-the-royal-aegis",
+        "name": "Velstadt, The Royal Aegis",
+        "hp": 6290,
+        "optional": "required",
+        "resistance": [
+            "dark",
+            "poison",
+            "bleed"
+        ],
+        "weakness": [
+            "strike",
+            "lightning"
+        ],
+        "immunity": [],
+        "weapons": [
+            "heavy hammer"
+        ]
+    },
+    {
+        "slug": "vendrick",
+        "name": "Vendrick",
+        "hp": 11450,
+        "optional": "optional",
+        "resistance": [
+            "dark"
+        ],
+        "weakness": [],
+        "immunity": [
+            "poison"
+        ],
+        "weapons": [
+            "greatsword"
+        ]
+    },
+    {
+        "slug": "darklurker",
+        "name": "Darklurker",
+        "hp": 5770,
+        "optional": "optional",
+        "resistance": [
+            "dark"
+        ],
+        "weakness": [
+            "fire",
+            "lightning",
+            "magic"
+        ],
+        "immunity": [
+            "poison",
+            "bleed"
+        ],
+        "weapons": []
+    },
+    {
+        "slug": "dragonrider",
+        "name": "Dragonrider",
+        "hp": 3050,
+        "optional": "optional",
+        "resistance": [],
+        "weakness": [
+            "strike",
+            "fire",
+            "lightning"
+        ],
+        "immunity": [],
+        "weapons": [
+            "halberd",
+            "shield"
+        ]
+    },
+    {
+        "slug": "twin-dragonriders",
+        "name": "Twin Dragonriders",
+        "hp": 5140,
+        "optional": "required",
+        "resistance": [],
+        "weakness": [
+            "poison",
+            "strike",
+            "fire",
+            "lightning",
+            "dark"
+        ],
+        "immunity": [],
+        "weapons": [
+            "bow",
+            "halberd",
+            "shield"
+        ]
+    },
+    {
+        "slug": "prowling-magus-and-congregation",
+        "name": "Prowling Magus and Congregation",
+        "hp": 5100,
+        "optional": "required",
+        "resistance": [
+            "magic",
+            "dark"
+        ],
+        "weakness": [
+            "slash",
+            "thrust",
+            "fire",
+            "bleed"
+        ],
+        "immunity": [],
+        "weapons": []
+    },
+    {
+        "slug": "giant-lord",
+        "name": "Giant Lord",
+        "hp": 5970,
+        "optional": "required",
+        "resistance": [
+            "physical"
+        ],
+        "weakness": [
+            "dark"
+        ],
+        "immunity": [],
+        "weapons": [
+            "greatsword"
+        ]
+    },
+    {
+        "slug": "ancient-dragon",
+        "name": "Ancient Dragon",
+        "hp": 19840,
+        "optional": "optional",
+        "resistance": [
+            "fire",
+            "poison",
+            "bleed",
+            "physical"
+        ],
+        "weakness": [
+            "lightning"
+        ],
+        "immunity": [],
+        "weapons": []
+    },
+    {
+        "slug": "throne-watcher-and-throne-defender",
+        "name": "Throne Watcher and Throne Defender",
+        "hp": 6670,
+        "optional": "required",
+        "resistance": [
+            "poison",
+            "bleed"
+        ],
+        "weakness": [
+            "lightning"
+        ],
+        "immunity": [],
+        "weapons": [
+            "shield",
+            "sword"
+        ]
+    },
+    {
+        "slug": "nashandra",
+        "name": "Nashandra",
+        "hp": 8770,
+        "optional": "required",
+        "resistance": [
+            "dark",
+            "poison"
+        ],
+        "weakness": [
+            "strike",
+            "lightning"
+        ],
+        "immunity": [
+            "bleed"
+        ],
+        "weapons": [
+            "scythe"
+        ]
+    },
+    {
+        "slug": "aldia-scholar-of-the-first-sin",
+        "name": "Aldia, Scholar of the First Sin",
+        "hp": 6800,
+        "optional": "optional",
+        "resistance": [
+            "fire",
+            "dark",
+            "poison"
+        ],
+        "weakness": [
+            "slash",
+            "lightning",
+            "magic"
+        ],
+        "immunity": [
+            "bleed"
+        ],
+        "weapons": []
+    }
+]

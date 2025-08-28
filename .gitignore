@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Virtualenv
+venv/
+ENV/
+.env/

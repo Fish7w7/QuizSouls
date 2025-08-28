@@ -1,0 +1,44 @@
+{
+    "resistance": {
+        "1": "dark",
+        "2": "strike",
+        "3": "lightning",
+        "4": "magic",
+        "5": "thrust",
+        "6": "bleed",
+        "7": "fire",
+        "8": "poison",
+        "9": "slash",
+        "10": "physical"
+    },
+    "weakness": {
+        "1": "fire",
+        "2": "lightning",
+        "3": "strike",
+        "4": "bleed",
+        "5": "magic",
+        "6": "dark",
+        "7": "poison",
+        "8": "toxic",
+        "9": "thrust",
+        "10": "slash"
+    },
+    "immunity": {
+        "1": "bleed",
+        "2": "poison"
+    },
+    "weapons": {
+        "1": "arm",
+        "2": "axe",
+        "3": "bow",
+        "4": "greatsword",
+        "5": "halberd",
+        "6": "head",
+        "7": "heavy hammer",
+        "8": "scythe",
+        "9": "shield",
+        "10": "spear",
+        "11": "staff",
+        "12": "sword"
+    }
+}
