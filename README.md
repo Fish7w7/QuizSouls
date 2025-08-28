@@ -22,7 +22,7 @@ O projeto tem duas versões principais:
 
 Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/QuizSouls.git
+git clone https://github.com/Fish7w7/QuizSouls.git
 cd QuizSouls
 
 Instale as dependências:
